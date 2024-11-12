@@ -1,0 +1,8 @@
+{
+	"name": "Default Linux Universal",
+	"build": {
+		"dockerfile": "dc.Dockerfile",
+		"context": ".."
+	}
+
+}
